@@ -45,6 +45,7 @@ python app.py
 Now,
 ```bash
 open up you local host and port
+http://localhost:8080/docs#/default/predict_route_predict_post
 ```
 
 
