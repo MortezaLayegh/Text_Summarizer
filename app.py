@@ -43,3 +43,4 @@ async def predict_route(text):
 
 if __name__=="__main__":
     uvicorn.run(app, host="0.0.0.0", port=8080)
+    #http://localhost:8080/docs#/default/predict_route_predict_post
